@@ -44,7 +44,7 @@ p {
 }
 .user-email:hover {
     /* border: 2px solid #a186e9; */
-    outline-color: #a186e9;
+    outline-color: #a186e9; /* adds outline to hover */
     padding: 2px 10px;
     border-radius: 20px;
     background-color: #c4ab92;
