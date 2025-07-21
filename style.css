@@ -29,6 +29,7 @@ body {
 
 .user-info {
     margin: auto;
+    text-shadow: 2px 2px 5px #393d3d;
 }
 
 p {
