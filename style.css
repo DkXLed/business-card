@@ -19,7 +19,7 @@ body {
     background: #c1cfda;
     color: #492c1d;
     border-bottom: 6px solid #006d77;
-    font-style: italic;
+    /* font-style: italic; */
     border-radius: 10px;
 }
 
@@ -34,4 +34,11 @@ body {
 
 p {
     font-weight: bold;
+}
+
+.user-email:hover {
+    border: 2px solid #a186e9;
+    padding: 2px 10px;
+    border-radius: 20px;
+    background-color: #c4ab92;
 }
